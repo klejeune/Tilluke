@@ -1,0 +1,3 @@
+AutoRest -Input http://localhost:55245/swagger/v1/swagger.json -OutputFileName HubClient.cs -Namespace Tilluke.Platform.Hubs -ClientName HubClient -OutputDirectory ./Hubs -AddCredentials true -UseDateTimeOffset false
+
+AutoRest -Input http://localhost:57281/swagger/v1/swagger.json -OutputFileName EventStoreClient.cs -Namespace Tilluke.Platform.Events -ClientName EventStoreClient -OutputDirectory ./Events -AddCredentials true -UseDateTimeOffset false

@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Tilluke/.vs
+/src/Tilluke/Tilluke.Backups/bin/Debug/netcoreapp1.1
+/src/Tilluke/Tilluke.Backups/bin/Debug/netcoreapp1.1
+/src/Tilluke/Tilluke.EventStore/bin
+/src/Tilluke/Tilluke.EventStore/obj
+/src/Tilluke/Tilluke.Backups/obj
+/src/Tilluke/Tilluke.Hub/bin/Debug/netcoreapp1.1
+/src/Tilluke/Tilluke.Hub/obj
+/src/Tilluke/Tilluke.Platform/bin/Debug/netstandard1.4
+/src/Tilluke/Tilluke.Platform/obj
